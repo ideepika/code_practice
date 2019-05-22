@@ -1,6 +1,7 @@
 # CHALLENGES
 
-## FIRST MILESTONE: E-Maxx Algorithms in English (https://cp-algorithms.com/)
+### First Milestone: E-Maxx Algorithms in English 
+Credits: (https://cp-algorithms.com/)
 
 
 ### Algebra
