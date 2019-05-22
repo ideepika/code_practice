@@ -1,469 +1,469 @@
-# Challenges
-FIRST MILESTONE: E-Maxx Algorithms in English
-https://cp-algorithms.com/
+# CHALLENGES
+
+## FIRST MILESTONE: E-Maxx Algorithms in English (https://cp-algorithms.com/)
 
 
 ### Algebra
 
--   Fundamentals
+- [ ]    Fundamental
     
 
--   [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
+- [ ]    [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
     
--   [Euclidean algorithm for computing the greatest common divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html)
+- [ ]    [Euclidean algorithm for computing the greatest common divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html)
     
--   [Extended Euclidean Algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
+- [ ]    [Extended Euclidean Algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
     
--   [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
+- [ ]    [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
     
--   [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
-    
-
--   Prime numbers
+- [ ]    [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
     
 
--   [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
-    
--   [Sieve of Eratosthenes With Linear Time Complexity](https://cp-algorithms.com/algebra/prime-sieve-linear.html)
-    
--   [Primality tests](https://cp-algorithms.com/algebra/primality_tests.html)
-    
--   [Integer factorization](https://cp-algorithms.com/algebra/factorization.html)
+- [ ]  Prime numbers
     
 
--   Number-theoretic functions
+- [ ]  [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+    
+- [ ]  [Sieve of Eratosthenes With Linear Time Complexity](https://cp-algorithms.com/algebra/prime-sieve-linear.html)
+    
+- [ ]  [Primality tests](https://cp-algorithms.com/algebra/primality_tests.html)
+    
+- [ ]  [Integer factorization](https://cp-algorithms.com/algebra/factorization.html)
     
 
--   [Euler's totient function](https://cp-algorithms.com/algebra/phi-function.html)
-    
--   [Number of divisors / sum of divisors](https://cp-algorithms.com/algebra/divisors.html)
+- [ ]  Number-theoretic functions
     
 
--   Modular arithmetic
+- [ ]  [Euler's totient function](https://cp-algorithms.com/algebra/phi-function.html)
+    
+- [ ]  [Number of divisors / sum of divisors](https://cp-algorithms.com/algebra/divisors.html)
     
 
--   [Modular Inverse](https://cp-algorithms.com/algebra/module-inverse.html)
-    
--   [Linear Congruence Equation](https://cp-algorithms.com/algebra/linear_congruence_equation.html)
-    
--   [Chinese Remainder Theorem](https://cp-algorithms.com/algebra/chinese-remainder-theorem.html)
-    
--   [Factorial modulo](https://cp-algorithms.com/algebra/factorial-modulo.html)
-    
--   [p](https://cp-algorithms.com/algebra/factorial-modulo.html)
-    
--   [p](https://cp-algorithms.com/algebra/factorial-modulo.html)
-    
--   [Discrete Root](https://cp-algorithms.com/algebra/discrete-root.html)
-    
--   [Primitive Root](https://cp-algorithms.com/algebra/primitive-root.html)
-    
--   [Discrete Log](https://cp-algorithms.com/algebra/discrete-log.html)
-    
--   [Montgomery Multiplication](https://cp-algorithms.com/algebra/montgomery_multiplication.html)
+- [ ]  Modular arithmetic
     
 
--   Number systems
+- [ ]  [Modular Inverse](https://cp-algorithms.com/algebra/module-inverse.html)
+    
+- [ ]  [Linear Congruence Equation](https://cp-algorithms.com/algebra/linear_congruence_equation.html)
+    
+- [ ]  [Chinese Remainder Theorem](https://cp-algorithms.com/algebra/chinese-remainder-theorem.html)
+    
+- [ ]  [Factorial modulo](https://cp-algorithms.com/algebra/factorial-modulo.html)
+    
+- [ ]  [p](https://cp-algorithms.com/algebra/factorial-modulo.html)
+    
+- [ ]  [p](https://cp-algorithms.com/algebra/factorial-modulo.html)
+    
+- [ ]  [Discrete Root](https://cp-algorithms.com/algebra/discrete-root.html)
+    
+- [ ]  [Primitive Root](https://cp-algorithms.com/algebra/primitive-root.html)
+    
+- [ ]  [Discrete Log](https://cp-algorithms.com/algebra/discrete-log.html)
+    
+- [ ]  [Montgomery Multiplication](https://cp-algorithms.com/algebra/montgomery_multiplication.html)
     
 
--   [Balanced Ternary](https://cp-algorithms.com/algebra/balanced-ternary.html)
-    
--   [Gray code](https://cp-algorithms.com/algebra/gray-code.html)
+- [ ]  Number systems
     
 
--   Miscellaneous
+- [ ]  [Balanced Ternary](https://cp-algorithms.com/algebra/balanced-ternary.html)
+    
+- [ ]  [Gray code](https://cp-algorithms.com/algebra/gray-code.html)
     
 
--   [Enumerating submasks of a bitmask](https://cp-algorithms.com/algebra/all-submasks.html)
+- [ ]  Miscellaneous
     
--   [Arbitrary-Precision Arithmetic](https://cp-algorithms.com/algebra/big-integer.html)
+
+- [ ]  [Enumerating submasks of a bitmask](https://cp-algorithms.com/algebra/all-submasks.html)
     
--   [Fast Fourier transform](https://cp-algorithms.com/algebra/fft.html)
+- [ ]  [Arbitrary-Precision Arithmetic](https://cp-algorithms.com/algebra/big-integer.html)
     
--   [Operations on polynomials and series](https://cp-algorithms.com/algebra/polynomial.html)
+- [ ]  [Fast Fourier transform](https://cp-algorithms.com/algebra/fft.html)
+    
+- [ ]  [Operations on polynomials and series](https://cp-algorithms.com/algebra/polynomial.html)
     
 
 ### Data Structures
 
--   Fundamentals
+- [ ]  Fundamentals
     
 
--   [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+- [ ]  [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
     
--   [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
-    
-
--   Trees
+- [ ]  [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
     
 
--   [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
-    
--   [Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html)
-    
--   [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
-    
--   [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
-    
--   [Treap](https://cp-algorithms.com/data_structures/treap.html)
-    
--   [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
-    
--   [Randomized Heap](https://cp-algorithms.com/data_structures/randomized_heap.html)
+- [ ]  Trees
     
 
--   Advanced
+- [ ]  [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+    
+- [ ]  [Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html)
+    
+- [ ]  [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
+    
+- [ ]  [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
+    
+- [ ]  [Treap](https://cp-algorithms.com/data_structures/treap.html)
+    
+- [ ]  [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
+    
+- [ ]  [Randomized Heap](https://cp-algorithms.com/data_structures/randomized_heap.html)
     
 
--   [Deleting from a data structure in O(T(n)log n)](https://cp-algorithms.com/data_structures/deleting_in_log_n.html)
+- [ ]  Advanced
+    
+
+- [ ]  [Deleting from a data structure in O(T(n)log n)](https://cp-algorithms.com/data_structures/deleting_in_log_n.html)
     
 
 ### Dynamic Programming
 
--   DP optimizations
+- [ ]  DP optimizations
     
 
--   [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
+- [ ]  [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
     
 
--   Tasks
+- [ ]  Tasks
     
 
--   [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
+- [ ]  [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
     
--   [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
+- [ ]  [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
     
 
 ### String Processing
 
--   Fundamentals
+- [ ]  Fundamentals
     
 
--   [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
+- [ ]  [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
     
--   [Rabin-Karp for String Matching](https://cp-algorithms.com/string/rabin-karp.html)
+- [ ]  [Rabin-Karp for String Matching](https://cp-algorithms.com/string/rabin-karp.html)
     
--   [Prefix function](https://cp-algorithms.com/string/prefix-function.html)
+- [ ]  [Prefix function](https://cp-algorithms.com/string/prefix-function.html)
     
--   [Z-function](https://cp-algorithms.com/string/z-function.html)
+- [ ]  [Z-function](https://cp-algorithms.com/string/z-function.html)
     
--   [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
+- [ ]  [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
     
--   [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
-    
-
--   Advanced
+- [ ]  [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
     
 
--   [Suffix Tree](https://cp-algorithms.com/string/suffix-tree-ukkonen.html)
-    
--   [Suffix Automaton](https://cp-algorithms.com/string/suffix-automaton.html)
-    
--   [Lyndon factorization](https://cp-algorithms.com/string/lyndon_factorization.html)
+- [ ]  Advanced
     
 
--   Tasks
+- [ ]  [Suffix Tree](https://cp-algorithms.com/string/suffix-tree-ukkonen.html)
+    
+- [ ]  [Suffix Automaton](https://cp-algorithms.com/string/suffix-automaton.html)
+    
+- [ ]  [Lyndon factorization](https://cp-algorithms.com/string/lyndon_factorization.html)
     
 
--   [Expression parsing](https://cp-algorithms.com/string/expression_parsing.html)
+- [ ]  Tasks
     
--   [Manacher's Algorithm - Finding all sub-palindromes in O(N)](https://cp-algorithms.com/string/manacher.html)
+
+- [ ]  [Expression parsing](https://cp-algorithms.com/string/expression_parsing.html)
     
--   [Finding repetitions](https://cp-algorithms.com/string/main_lorentz.html)
+- [ ]  [Manacher's Algorithm - Finding all sub-palindromes in O(N)](https://cp-algorithms.com/string/manacher.html)
+    
+- [ ]  [Finding repetitions](https://cp-algorithms.com/string/main_lorentz.html)
     
 
 ### Linear Algebra
 
--   Matrices
+- [ ]  Matrices
     
 
--   [Gauss & System of Linear Equations](https://cp-algorithms.com/linear_algebra/linear-system-gauss.html)
+- [ ]  [Gauss & System of Linear Equations](https://cp-algorithms.com/linear_algebra/linear-system-gauss.html)
     
--   [Gauss & Determinant](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
+- [ ]  [Gauss & Determinant](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
     
--   [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
+- [ ]  [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
     
--   [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
+- [ ]  [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
     
 
 ### Combinatorics
 
--   Fundamentals
+- [ ]  Fundamentals
     
 
--   [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
+- [ ]  [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
     
--   [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
+- [ ]  [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
     
--   [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
-    
-
--   Techniques
+- [ ]  [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
     
 
--   [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
-    
--   [Burnside's lemma / Pólya enumeration theorem](https://cp-algorithms.com/combinatorics/burnside.html)
-    
--   [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html)
-    
--   [Generating all](https://cp-algorithms.com/combinatorics/generating_combinations.html)
-    
--   [K](https://cp-algorithms.com/combinatorics/generating_combinations.html)
-    
--   [K-combinations](https://cp-algorithms.com/combinatorics/generating_combinations.html)
+- [ ]  Techniques
     
 
--   Tasks
+- [ ]  [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+    
+- [ ]  [Burnside's lemma / Pólya enumeration theorem](https://cp-algorithms.com/combinatorics/burnside.html)
+    
+- [ ]  [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html)
+    
+- [ ]  [Generating all](https://cp-algorithms.com/combinatorics/generating_combinations.html)
+    
+- [ ]  [K](https://cp-algorithms.com/combinatorics/generating_combinations.html)
+    
+- [ ]  [K-combinations](https://cp-algorithms.com/combinatorics/generating_combinations.html)
     
 
--   [Placing Bishops on a Chessboard](https://cp-algorithms.com/combinatorics/bishops-on-chessboard.html)
+- [ ]  Tasks
     
--   [Balanced bracket sequences](https://cp-algorithms.com/combinatorics/bracket_sequences.html)
+
+- [ ]  [Placing Bishops on a Chessboard](https://cp-algorithms.com/combinatorics/bishops-on-chessboard.html)
     
--   [Counting labeled graphs](https://cp-algorithms.com/combinatorics/counting_labeled_graphs.html)
+- [ ]  [Balanced bracket sequences](https://cp-algorithms.com/combinatorics/bracket_sequences.html)
+    
+- [ ]  [Counting labeled graphs](https://cp-algorithms.com/combinatorics/counting_labeled_graphs.html)
     
 
 ### Numerical Methods
 
--   Search
+- [ ]  Search
     
 
--   [Ternary Search](https://cp-algorithms.com/num_methods/ternary_search.html)
+- [ ]  [Ternary Search](https://cp-algorithms.com/num_methods/ternary_search.html)
     
--   [Newton's method for finding roots](https://cp-algorithms.com/num_methods/roots_newton.html)
-    
-
--   Integration
+- [ ]  [Newton's method for finding roots](https://cp-algorithms.com/num_methods/roots_newton.html)
     
 
--   [Integration by Simpson's formula](https://cp-algorithms.com/num_methods/simpson-integration.html)
+- [ ]  Integration
+    
+
+- [ ]  [Integration by Simpson's formula](https://cp-algorithms.com/num_methods/simpson-integration.html)
     
 
 ### Geometry
 
--   Elementary operations
+- [ ]  Elementary operations
     
 
--   [Basic Geometry](https://cp-algorithms.com/geometry/basic-geometry.html)
+- [ ]  [Basic Geometry](https://cp-algorithms.com/geometry/basic-geometry.html)
     
--   [Finding the equation of a line for a segment](https://cp-algorithms.com/geometry/segment-to-line.html)
+- [ ]  [Finding the equation of a line for a segment](https://cp-algorithms.com/geometry/segment-to-line.html)
     
--   [Intersection Point of Lines](https://cp-algorithms.com/geometry/lines-intersection.html)
+- [ ]  [Intersection Point of Lines](https://cp-algorithms.com/geometry/lines-intersection.html)
     
--   [Check if two segments intersect](https://cp-algorithms.com/geometry/check-segments-intersection.html)
+- [ ]  [Check if two segments intersect](https://cp-algorithms.com/geometry/check-segments-intersection.html)
     
--   [Intersection of Segments](https://cp-algorithms.com/geometry/segments-intersection.html)
+- [ ]  [Intersection of Segments](https://cp-algorithms.com/geometry/segments-intersection.html)
     
--   [Circle-Line Intersection](https://cp-algorithms.com/geometry/circle-line-intersection.html)
+- [ ]  [Circle-Line Intersection](https://cp-algorithms.com/geometry/circle-line-intersection.html)
     
--   [Circle-Circle Intersection](https://cp-algorithms.com/geometry/circle-circle-intersection.html)
+- [ ]  [Circle-Circle Intersection](https://cp-algorithms.com/geometry/circle-circle-intersection.html)
     
--   [Common tangents to two circles](https://cp-algorithms.com/geometry/tangents-to-two-circles.html)
+- [ ]  [Common tangents to two circles](https://cp-algorithms.com/geometry/tangents-to-two-circles.html)
     
--   [Length of the union of segments](https://cp-algorithms.com/geometry/length-of-segments-union.html)
-    
-
--   Polygons
+- [ ]  [Length of the union of segments](https://cp-algorithms.com/geometry/length-of-segments-union.html)
     
 
--   [Oriented area of a triangle](https://cp-algorithms.com/geometry/oriented-triangle-area.html)
-    
--   [Area of simple polygon](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
-    
--   [Check if points belong to the convex polygon in O(log N)](https://cp-algorithms.com/geometry/point-in-convex-polygon.html)
-    
--   [Pick's Theorem - area of lattice polygons](https://cp-algorithms.com/geometry/picks-theorem.html)
-    
--   [Lattice points of non-lattice polygon](https://cp-algorithms.com/geometry/lattice-points.html)
+- [ ]  Polygons
     
 
--   Convex hull
+- [ ]  [Oriented area of a triangle](https://cp-algorithms.com/geometry/oriented-triangle-area.html)
+    
+- [ ]  [Area of simple polygon](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
+    
+- [ ]  [Check if points belong to the convex polygon in O(log N)](https://cp-algorithms.com/geometry/point-in-convex-polygon.html)
+    
+- [ ]  [Pick's Theorem - area of lattice polygons](https://cp-algorithms.com/geometry/picks-theorem.html)
+    
+- [ ]  [Lattice points of non-lattice polygon](https://cp-algorithms.com/geometry/lattice-points.html)
     
 
--   [Convex hull construction using Graham's Scan](https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html)
-    
--   [Convex hull trick and Li Chao tree](https://cp-algorithms.com/geometry/convex_hull_trick.html)
+- [ ]  Convex hull
     
 
--   Sweep-line
+- [ ]  [Convex hull construction using Graham's Scan](https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html)
+    
+- [ ]  [Convex hull trick and Li Chao tree](https://cp-algorithms.com/geometry/convex_hull_trick.html)
     
 
--   [Search for a pair of intersecting segments](https://cp-algorithms.com/geometry/intersecting_segments.html)
-    
--   [Point location in O(log N)](https://cp-algorithms.com/geometry/point-location.html)
+- [ ]  Sweep-line
     
 
--   Miscellaneous
+- [ ]  [Search for a pair of intersecting segments](https://cp-algorithms.com/geometry/intersecting_segments.html)
+    
+- [ ]  [Point location in O(log N)](https://cp-algorithms.com/geometry/point-location.html)
     
 
--   [Finding the nearest pair of points](https://cp-algorithms.com/geometry/nearest_points.html)
+- [ ]  Miscellaneous
     
--   [Delaunay triangulation and Voronoi diagram](https://cp-algorithms.com/geometry/delaunay.html)
+
+- [ ]  [Finding the nearest pair of points](https://cp-algorithms.com/geometry/nearest_points.html)
+    
+- [ ]  [Delaunay triangulation and Voronoi diagram](https://cp-algorithms.com/geometry/delaunay.html)
     
 
 ### Graphs
 
--   Graph traversal
+- [ ]  Graph traversal
     
 
--   [Breadth First Search](https://cp-algorithms.com/graph/breadth-first-search.html)
+- [ ]  [Breadth First Search](https://cp-algorithms.com/graph/breadth-first-search.html)
     
--   [Depth First Search](https://cp-algorithms.com/graph/depth-first-search.html)
-    
-
--   Connected components, bridges, articulations points
+- [ ]  [Depth First Search](https://cp-algorithms.com/graph/depth-first-search.html)
     
 
--   [Finding Connected Components](https://cp-algorithms.com/graph/search-for-connected-components.html)
-    
--   [Finding Bridges in O(N+M)](https://cp-algorithms.com/graph/bridge-searching.html)
-    
--   [Finding Bridges Online](https://cp-algorithms.com/graph/bridge-searching-online.html)
-    
--   [Finding Articulation Points in O(N+M)](https://cp-algorithms.com/graph/cutpoints.html)
-    
--   [Strongly Connected Components and Condensation Graph](https://cp-algorithms.com/graph/strongly-connected-components.html)
+- [ ]  Connected components, bridges, articulations points
     
 
--   Single-source shortest paths
+- [ ]  [Finding Connected Components](https://cp-algorithms.com/graph/search-for-connected-components.html)
+    
+- [ ]  [Finding Bridges in O(N+M)](https://cp-algorithms.com/graph/bridge-searching.html)
+    
+- [ ]  [Finding Bridges Online](https://cp-algorithms.com/graph/bridge-searching-online.html)
+    
+- [ ]  [Finding Articulation Points in O(N+M)](https://cp-algorithms.com/graph/cutpoints.html)
+    
+- [ ]  [Strongly Connected Components and Condensation Graph](https://cp-algorithms.com/graph/strongly-connected-components.html)
     
 
--   [Dijkstra - finding shortest paths from given vertex](https://cp-algorithms.com/graph/dijkstra.html)
-    
--   [Dijkstra on sparse graphs](https://cp-algorithms.com/graph/dijkstra_sparse.html)
-    
--   [Bellman-Ford - finding shortest paths with negative weights](https://cp-algorithms.com/graph/bellman_ford.html)
-    
--   [0-1 BFS](https://cp-algorithms.com/graph/01_bfs.html)
-    
--   [D´Esopo-Pape algorithm](https://cp-algorithms.com/graph/desopo_pape.html)
+- [ ]  Single-source shortest paths
     
 
--   All-pairs shortest paths
+- [ ]  [Dijkstra - finding shortest paths from given vertex](https://cp-algorithms.com/graph/dijkstra.html)
+    
+- [ ]  [Dijkstra on sparse graphs](https://cp-algorithms.com/graph/dijkstra_sparse.html)
+    
+- [ ]  [Bellman-Ford - finding shortest paths with negative weights](https://cp-algorithms.com/graph/bellman_ford.html)
+    
+- [ ]  [0-1 BFS](https://cp-algorithms.com/graph/01_bfs.html)
+    
+- [ ]  [D´Esopo-Pape algorithm](https://cp-algorithms.com/graph/desopo_pape.html)
     
 
--   [Floyd-Warshall - finding all shortest paths](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
-    
--   [Number of paths of fixed length / Shortest paths of fixed length](https://cp-algorithms.com/graph/fixed_length_paths.html)
+- [ ]  All-pairs shortest paths
     
 
--   Spanning trees
+- [ ]  [Floyd-Warshall - finding all shortest paths](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
+    
+- [ ]  [Number of paths of fixed length / Shortest paths of fixed length](https://cp-algorithms.com/graph/fixed_length_paths.html)
     
 
--   [Minimum Spanning Tree - Prim's Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
-    
--   [Minimum Spanning Tree - Kruskal](https://cp-algorithms.com/graph/mst_kruskal.html)
-    
--   [Minimum Spanning Tree - Kruskal with Disjoint Set Union](https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html)
-    
--   [Second best Minimum Spanning Tree - Using Kruskal and Lowest Common Ancestor](https://cp-algorithms.com/graph/second_best_mst.html)
-    
--   [Kirchhoff Theorem](https://cp-algorithms.com/graph/kirchhoff-theorem.html)
-    
--   [Prüfer code](https://cp-algorithms.com/graph/pruefer_code.html)
+- [ ]  Spanning trees
     
 
--   Cycles
+- [ ]  [Minimum Spanning Tree - Prim's Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
+    
+- [ ]  [Minimum Spanning Tree - Kruskal](https://cp-algorithms.com/graph/mst_kruskal.html)
+    
+- [ ]  [Minimum Spanning Tree - Kruskal with Disjoint Set Union](https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html)
+    
+- [ ]  [Second best Minimum Spanning Tree - Using Kruskal and Lowest Common Ancestor](https://cp-algorithms.com/graph/second_best_mst.html)
+    
+- [ ]  [Kirchhoff Theorem](https://cp-algorithms.com/graph/kirchhoff-theorem.html)
+    
+- [ ]  [Prüfer code](https://cp-algorithms.com/graph/pruefer_code.html)
     
 
--   [Checking a graph for acyclicity and finding a cycle in O(M)](https://cp-algorithms.com/graph/finding-cycle.html)
-    
--   [Finding a Negative Cycle in the Graph](https://cp-algorithms.com/graph/finding-negative-cycle-in-graph.html)
-    
--   [Eulerian Path](https://cp-algorithms.com/graph/euler_path.html)
+- [ ]  Cycles
     
 
--   Lowest common ancestor
+- [ ]  [Checking a graph for acyclicity and finding a cycle in O(M)](https://cp-algorithms.com/graph/finding-cycle.html)
+    
+- [ ]  [Finding a Negative Cycle in the Graph](https://cp-algorithms.com/graph/finding-negative-cycle-in-graph.html)
+    
+- [ ]  [Eulerian Path](https://cp-algorithms.com/graph/euler_path.html)
     
 
--   [Lowest Common Ancestor](https://cp-algorithms.com/graph/lca.html)
-    
--   [Lowest Common Ancestor - Binary Lifting](https://cp-algorithms.com/graph/lca_binary_lifting.html)
-    
--   [Lowest Common Ancestor - Farach-Colton and Bender algorithm](https://cp-algorithms.com/graph/lca_farachcoltonbender.html)
-    
--   [Solve RMQ by finding LCA](https://cp-algorithms.com/graph/rmq_linear.html)
-    
--   [Lowest Common Ancestor - Tarjan's off-line algorithm](https://cp-algorithms.com/graph/lca_tarjan.html)
+- [ ]  Lowest common ancestor
     
 
--   Flows and related problems
+- [ ]  [Lowest Common Ancestor](https://cp-algorithms.com/graph/lca.html)
+    
+- [ ]  [Lowest Common Ancestor - Binary Lifting](https://cp-algorithms.com/graph/lca_binary_lifting.html)
+    
+- [ ]  [Lowest Common Ancestor - Farach-Colton and Bender algorithm](https://cp-algorithms.com/graph/lca_farachcoltonbender.html)
+    
+- [ ]  [Solve RMQ by finding LCA](https://cp-algorithms.com/graph/rmq_linear.html)
+    
+- [ ]  [Lowest Common Ancestor - Tarjan's off-line algorithm](https://cp-algorithms.com/graph/lca_tarjan.html)
     
 
--   [Maximum flow - Ford-Fulkerson and Edmonds-Karp](https://cp-algorithms.com/graph/edmonds_karp.html)
-    
--   [Maximum flow - Push-relabel algorithm](https://cp-algorithms.com/graph/push-relabel.html)
-    
--   [Maximum flow - Push-relabel algorithm improved](https://cp-algorithms.com/graph/push-relabel-faster.html)
-    
--   [Maximum flow - Dinic's algorithm](https://cp-algorithms.com/graph/dinic.html)
-    
--   [Maximum flow - MPM algorithm](https://cp-algorithms.com/graph/mpm.html)
-    
--   [Flows with demands](https://cp-algorithms.com/graph/flow_with_demands.html)
-    
--   [Minimum-cost flow](https://cp-algorithms.com/graph/min_cost_flow.html)
-    
--   [Assignment problem. Solution using min-cost-flow in O (N^5)](https://cp-algorithms.com/graph/Assignment-problem-min-flow.html)
+- [ ]  Flows and related problems
     
 
--   Matchings and related problems
+- [ ]  [Maximum flow - Ford-Fulkerson and Edmonds-Karp](https://cp-algorithms.com/graph/edmonds_karp.html)
+    
+- [ ]  [Maximum flow - Push-relabel algorithm](https://cp-algorithms.com/graph/push-relabel.html)
+    
+- [ ]  [Maximum flow - Push-relabel algorithm improved](https://cp-algorithms.com/graph/push-relabel-faster.html)
+    
+- [ ]  [Maximum flow - Dinic's algorithm](https://cp-algorithms.com/graph/dinic.html)
+    
+- [ ]  [Maximum flow - MPM algorithm](https://cp-algorithms.com/graph/mpm.html)
+    
+- [ ]  [Flows with demands](https://cp-algorithms.com/graph/flow_with_demands.html)
+    
+- [ ]  [Minimum-cost flow](https://cp-algorithms.com/graph/min_cost_flow.html)
+    
+- [ ]  [Assignment problem. Solution using min-cost-flow in O (N^5)](https://cp-algorithms.com/graph/Assignment-problem-min-flow.html)
     
 
--   [Bipartite Graph Check](https://cp-algorithms.com/graph/bipartite-check.html)
+- [ ]  Matchings and related problems
     
 
--   Miscellaneous
+- [ ]  [Bipartite Graph Check](https://cp-algorithms.com/graph/bipartite-check.html)
     
 
--   [Topological Sorting](https://cp-algorithms.com/graph/topological-sort.html)
+- [ ]  Miscellaneous
     
--   [Edge connectivity / Vertex connectivity](https://cp-algorithms.com/graph/edge_vertex_connectivity.html)
+
+- [ ]  [Topological Sorting](https://cp-algorithms.com/graph/topological-sort.html)
     
--   [Tree painting](https://cp-algorithms.com/graph/tree_painting.html)
+- [ ]  [Edge connectivity / Vertex connectivity](https://cp-algorithms.com/graph/edge_vertex_connectivity.html)
     
--   [2-SAT](https://cp-algorithms.com/graph/2SAT.html)
+- [ ]  [Tree painting](https://cp-algorithms.com/graph/tree_painting.html)
     
--   [Heavy-light decomposition](https://cp-algorithms.com/graph/hld.html)
+- [ ]  [2-SAT](https://cp-algorithms.com/graph/2SAT.html)
+    
+- [ ]  [Heavy-light decomposition](https://cp-algorithms.com/graph/hld.html)
     
 
 ### Miscellaneous
 
--   Sequences
+- [ ]  Sequences
     
 
--   [RMQ task (Range Minimum Query - the smallest element in an interval)](https://cp-algorithms.com/sequences/rmq.html)
+- [ ]  [RMQ task (Range Minimum Query - the smallest element in an interval)](https://cp-algorithms.com/sequences/rmq.html)
     
--   [Longest increasing subsequence](https://cp-algorithms.com/sequences/longest_increasing_subsequence.html)
+- [ ]  [Longest increasing subsequence](https://cp-algorithms.com/sequences/longest_increasing_subsequence.html)
     
--   [Search the subsegment with the maximum/minimum sum](https://cp-algorithms.com/others/maximum_average_segment.html)
+- [ ]  [Search the subsegment with the maximum/minimum sum](https://cp-algorithms.com/others/maximum_average_segment.html)
     
--   [K-th order statistic in O(N)](https://cp-algorithms.com/sequences/k-th.html)
-    
-
--   Game Theory
+- [ ]  [K-th order statistic in O(N)](https://cp-algorithms.com/sequences/k-th.html)
     
 
--   [Games on arbitrary graphs](https://cp-algorithms.com/game_theory/games_on_graphs.html)
-    
--   [Sprague-Grundy theorem. Nim](https://cp-algorithms.com/game_theory/sprague-grundy-nim.html)
+- [ ]  Game Theory
     
 
--   Schedules
+- [ ]  [Games on arbitrary graphs](https://cp-algorithms.com/game_theory/games_on_graphs.html)
+    
+- [ ]  [Sprague-Grundy theorem. Nim](https://cp-algorithms.com/game_theory/sprague-grundy-nim.html)
     
 
--   [Scheduling jobs on one machine](https://cp-algorithms.com/schedules/schedule_one_machine.html)
-    
--   [Scheduling jobs on two machines](https://cp-algorithms.com/schedules/schedule_two_machines.html)
-    
--   [Optimal schedule of jobs given their deadlines and durations](https://cp-algorithms.com/schedules/schedule-with-completion-duration.html)
+- [ ]  Schedules
     
 
--   Miscellaneous
+- [ ]  [Scheduling jobs on one machine](https://cp-algorithms.com/schedules/schedule_one_machine.html)
+    
+- [ ]  [Scheduling jobs on two machines](https://cp-algorithms.com/schedules/schedule_two_machines.html)
+    
+- [ ]  [Optimal schedule of jobs given their deadlines and durations](https://cp-algorithms.com/schedules/schedule-with-completion-duration.html)
     
 
--   [Josephus problem](https://cp-algorithms.com/others/josephus_problem.html)
+- [ ]  Miscellaneous
     
--   [15 Puzzle Game: Existence Of The Solution](https://cp-algorithms.com/others/15-puzzle.html)
+
+- [ ]  [Josephus problem](https://cp-algorithms.com/others/josephus_problem.html)
     
--   [The Stern-Brocot Tree and Farey Sequences](https://cp-algorithms.com/others/stern_brocot_tree_farey_sequences.html)
+- [ ]  [15 Puzzle Game: Existence Of The Solution](https://cp-algorithms.com/others/15-puzzle.html)
+    
+- [ ]  [The Stern-Brocot Tree and Farey Sequences](https://cp-algorithms.com/others/stern_brocot_tree_farey_sequences.html)
